@@ -16,7 +16,7 @@ export const PetQualities = (props : PetQualityProps) => {
             {props.qualities.map((e,i)=>{
                 if (i === 0) return <Text>your pets quaolities are {e.qualOne}{e.qual2}{e.qual3}</Text>
             
-                return <Text>hello</Text>
+                return <Text>hellsasdo</Text>
             })}
 
         </View>
